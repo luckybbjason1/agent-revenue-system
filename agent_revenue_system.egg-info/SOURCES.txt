@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+agent_revenue_system/revenue_system.py
+agent_revenue_system.egg-info/PKG-INFO
+agent_revenue_system.egg-info/SOURCES.txt
+agent_revenue_system.egg-info/dependency_links.txt
+agent_revenue_system.egg-info/entry_points.txt
+agent_revenue_system.egg-info/top_level.txt

@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agent-revenue-system"
+version = "1.0.0"
+description = "自动化收入管理系统"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.8"
+authors = [{name = "Revenue Architect"}]
+
+dependencies = []
+
+[project.scripts]
+revenue-system = "agent_revenue_system.revenue_system:main"
+
+[tool.setuptools.packages.find]
+where = ["."]

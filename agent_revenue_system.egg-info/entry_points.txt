@@ -1,0 +1,2 @@
+[console_scripts]
+revenue-system = agent_revenue_system.revenue_system:main
