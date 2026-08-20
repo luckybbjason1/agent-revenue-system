@@ -18,3 +18,6 @@ revenue-system = "agent_revenue_system.revenue_system:main"
 
 [tool.setuptools.packages.find]
 where = ["."]
+
+
+# ETH收款地址: 0xCDe1aCAea12fa876b0FB740C4F2662998124C13c
