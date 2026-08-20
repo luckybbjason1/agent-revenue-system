@@ -21,3 +21,5 @@ where = ["."]
 
 
 # ETH收款地址: 0xCDe1aCAea12fa876b0FB740C4F2662998124C13c
+
+web3 = "^6.0.0"
