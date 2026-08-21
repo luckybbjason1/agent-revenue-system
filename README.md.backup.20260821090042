@@ -1,14 +1,3 @@
-Metadata-Version: 2.4
-Name: agent-revenue-system
-Version: 1.0.0
-Summary: 自动化收入管理系统
-Author: Revenue Architect
-License: MIT
-Requires-Python: >=3.8
-Description-Content-Type: text/markdown
-License-File: LICENSE
-Dynamic: license-file
-
 # agent-revenue-system
 
 ## 🚀 被动收入项目 - 收入系统
